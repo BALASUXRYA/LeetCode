@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/BALASUXRYA/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0171-excel-sheet-column-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -18,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/BALASUXRYA/LeetCode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/BALASUXRYA/LeetCode/tree/master/0178-rank-scores) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
