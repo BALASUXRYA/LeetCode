@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/BALASUXRYA/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
+| [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
@@ -64,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
