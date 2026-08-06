@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/BALASUXRYA/LeetCode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/BALASUXRYA/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/BALASUXRYA/LeetCode/tree/master/0043-multiply-strings) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/BALASUXRYA/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
