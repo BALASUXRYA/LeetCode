@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
@@ -104,4 +108,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
