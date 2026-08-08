@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/BALASUXRYA/LeetCode/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/BALASUXRYA/LeetCode/tree/master/0016-3sum-closest) |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/BALASUXRYA/LeetCode/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
