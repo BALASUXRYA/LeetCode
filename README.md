@@ -42,21 +42,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/BALASUXRYA/LeetCode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0171-excel-sheet-column-number) |
+| [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BALASUXRYA/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 ## Game Theory
 |  |
@@ -95,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BALASUXRYA/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
