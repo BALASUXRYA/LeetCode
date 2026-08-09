@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BALASUXRYA/LeetCode/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/BALASUXRYA/LeetCode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/BALASUXRYA/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/BALASUXRYA/LeetCode/tree/master/0010-regular-expression-matching) |
 ## Simulation
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/BALASUXRYA/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
