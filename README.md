@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/BALASUXRYA/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/BALASUXRYA/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/BALASUXRYA/LeetCode/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/BALASUXRYA/LeetCode/tree/master/0072-edit-distance) |
 | [0171-excel-sheet-column-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0389-find-the-difference](https://github.com/BALASUXRYA/LeetCode/tree/master/0389-find-the-difference) |
 | [0567-permutation-in-string](https://github.com/BALASUXRYA/LeetCode/tree/master/0567-permutation-in-string) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0010-regular-expression-matching](https://github.com/BALASUXRYA/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/BALASUXRYA/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0072-edit-distance](https://github.com/BALASUXRYA/LeetCode/tree/master/0072-edit-distance) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
 ## Stack
