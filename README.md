@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/BALASUXRYA/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/BALASUXRYA/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/BALASUXRYA/LeetCode/tree/master/0072-edit-distance) |
+| [0509-fibonacci-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
 ## Stack
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/BALASUXRYA/LeetCode/tree/master/0043-multiply-strings) |
 | [0171-excel-sheet-column-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BALASUXRYA/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/BALASUXRYA/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/BALASUXRYA/LeetCode/tree/master/0010-regular-expression-matching) |
+| [0509-fibonacci-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/BALASUXRYA/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/BALASUXRYA/LeetCode/tree/master/0046-permutations) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
