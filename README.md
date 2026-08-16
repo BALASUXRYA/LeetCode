@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/BALASUXRYA/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
@@ -79,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
@@ -96,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -143,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -157,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0509-fibonacci-number) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
