@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/BALASUXRYA/LeetCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/BALASUXRYA/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/1140-stone-game-ii) |
+| [1672-richest-customer-wealth](https://github.com/BALASUXRYA/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -172,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/BALASUXRYA/LeetCode/tree/master/2029-stone-game-ix) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/BALASUXRYA/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
