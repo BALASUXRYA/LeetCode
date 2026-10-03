@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/BALASUXRYA/LeetCode/tree/master/0046-permutations) |
 | [0162-find-peak-element](https://github.com/BALASUXRYA/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BALASUXRYA/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/BALASUXRYA/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/BALASUXRYA/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/BALASUXRYA/LeetCode/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/BALASUXRYA/LeetCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/BALASUXRYA/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/BALASUXRYA/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -188,9 +190,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/BALASUXRYA/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Ternary Search
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/BALASUXRYA/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/BALASUXRYA/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
